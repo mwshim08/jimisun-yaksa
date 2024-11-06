@@ -62,7 +62,7 @@
     <div class="container">
         <section id="introduction" class="section">
             <h2>지미선 파트장 소개</h2>
-            <img src="https://i.ibb.co/nLPp8ps/2qcC3XN.jpg" alt="지미선 파트장 사진">
+            <img src="https://drive.google.com/file/d/1XDql9aNyr07dF78QgPaz1yPWmmqLVTuq/view?usp=sharing" alt="지미선 파트장 사진">
             <p><strong>이름:</strong> 지미선</p>
             <p><strong>직책:</strong> 건국대학교병원 약제부 임상지원실 파트장</p>
             <p>지미선 파트장은 암 환자 치료와 신생아 영양 지원 등 환자들의 건강을 책임지는 임상 약제로서 활약하고 있습니다. 365일 무균실에서 주사제를 조제하고, 복약 지도를 제공하며, 병원 내 약제 서비스 품질을 높이는 데 기여하고 있습니다.</p>
@@ -89,7 +89,7 @@
 
         <section id="gallery" class="section">
             <h2>갤러리</h2>
-            <img src="https://i.ibb.co/nLPp8ps/2qcC3XN.jpg" alt="지미선 파트장 갤러리 이미지">
+            <img src="https://drive.google.com/file/d/1XDql9aNyr07dF78QgPaz1yPWmmqLVTuq/view?usp=sharing" alt="지미선 파트장 갤러리 이미지">
         </section>
 
         <section id="contact" class="section">
